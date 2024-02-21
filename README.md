@@ -1,0 +1,2 @@
+# Comic-Valuator-Predictive-Analysis-of-Comic-Book-Market-Values
+"Comic Valuator" is a machine learning project aimed at analyzing historical data from comic book issues to predict future market values. By leveraging a rich dataset of comic book characteristics and sales figures, this project seeks to identify patterns and trends that influence the appreciation in the value of comic books over time.
