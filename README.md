@@ -1,9 +1,5 @@
 Project Name: **"Comic Valuator: Predictive Analysis of Comic Book Market Values"**
 
-README File Content:
-
----
-
 # Comic Valuator: Predictive Analysis of Comic Book Market Values
 
 ## Project Overview
